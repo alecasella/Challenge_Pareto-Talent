@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "address": {
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "New York"
+    },
+    "description": "Luxury apartment",
+    "image": "images/Luxury-apartment.jpg",
+    "price": 1200000
+  },
+  {
+    "id": 2,
+    "address": {
+      "latitude": 40.7831,
+      "longitude": -73.9712,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "New York"
+    },
+    "description": "Spacious loft",
+    "image": "images/Spacious-loft.jpg",
+    "price": 950000
+  },
+  {
+    "id": 3,
+    "address": {
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Los Angeles"
+    },
+    "description": "Modern house",
+    "image": "images/Modern-house.jpg",
+    "price": 850000
+  },
+  {
+    "id": 4,
+    "address": {
+      "latitude": 34.0194,
+      "longitude": -118.4912,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Los Angeles"
+    },
+    "description": "Beachfront condo",
+    "image": "images/Beachfront-condo.jpg",
+    "price": 1300000
+  },
+  {
+    "id": 5,
+    "address": {
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Chicago"
+    },
+    "description": "Downtown apartment",
+    "image": "images/Downtown-apartment.jpg",
+    "price": 650000
+  },
+  {
+    "id": 6,
+    "address": {
+      "latitude": 41.8500,
+      "longitude": -87.6500,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Chicago"
+    },
+    "description": "Lakefront villa",
+    "image": "images/Lakefront-villa.jpg",
+    "price": 980000
+  },
+  {
+    "id": 7,
+    "address": {
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Houston"
+    },
+    "description": "Family home",
+    "image": "images/Family-home.jpg",
+    "price": 480000
+  },
+  {
+    "id": 8,
+    "address": {
+      "latitude": 29.7499,
+      "longitude": -95.3584,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Houston"
+    },
+    "description": "Luxury penthouse",
+    "image": "images/Luxury-penthouse.jpg",
+    "price": 1150000
+  },
+  {
+    "id": 9,
+    "address": {
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Seattle"
+    },
+    "description": "Penthouse downtown",
+    "image": "images/Penthouse-downtown.jpg",
+    "price": 980000
+  },
+  {
+    "id": 10,
+    "address": {
+      "latitude": 47.6205,
+      "longitude": -122.3493,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Seattle"
+    },
+    "description": "Apartment near Pike Market",
+    "image": "images/Apartment-near-Pike-Market.jpg",
+    "price": 650000
+  },
+  {
+    "id": 11,
+    "address": {
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Austin"
+    },
+    "description": "Modern condo",
+    "image": "images/Modern-condo.jpg",
+    "price": 770000
+  },
+  {
+    "id": 12,
+    "address": {
+      "latitude": 30.2747,
+      "longitude": -97.7403,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Austin"
+    },
+    "description": "Luxury apartment downtown",
+    "image": "images/Luxury-apartment-downtown.jpg",
+    "price": 980000
+  },
+  {
+    "id": 13,
+    "address": {
+      "latitude": 40.7580,
+      "longitude": -73.9855,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "New York"
+    },
+    "description": "Studio apartment",
+    "image": "images/Studio-apartment.jpg",
+    "price": 480000
+  },
+  {
+    "id": 14,
+    "address": {
+      "latitude": 34.1341,
+      "longitude": -118.3215,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Los Angeles"
+    },
+    "description": "Townhouse in Hollywood",
+    "image": "images/Townhouse-in-Hollywood.jpg",
+    "price": 950000
+  },
+  {
+    "id": 15,
+    "address": {
+      "latitude": 41.8917,
+      "longitude": -87.6114,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Chicago"
+    },
+    "description": "Apartment in River North",
+    "image": "images/Apartment-in-River-North.jpg",
+    "price": 820000
+  },
+  {
+    "id": 16,
+    "address": {
+      "latitude": 29.7602,
+      "longitude": -95.3694,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Houston"
+    },
+    "description": "Modern duplex",
+    "image": "images/Modern-duplex.jpg",
+    "price": 550000
+  },
+  {
+    "id": 17,
+    "address": {
+      "latitude": 47.6361,
+      "longitude": -122.3427,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Seattle"
+    },
+    "description": "Family house",
+    "image": "images/Family-house.jpg",
+    "price": 720000
+  },
+  {
+    "id": 18,
+    "address": {
+      "latitude": 30.2930,
+      "longitude": -97.7550,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Austin"
+    },
+    "description": "Family home in suburbs",
+    "image": "images/Family-home-in-suburbs.jpg",
+    "price": 680000
+  },
+  {
+    "id": 19,
+    "address": {
+      "latitude": 34.0521,
+      "longitude": -118.2430,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Los Angeles"
+    },
+    "description": "Cozy bungalow",
+    "image": "images/Cozy-bungalow.jpg",
+    "price": 670000
+  },
+  {
+    "id": 20,
+    "address": {
+      "latitude": 40.7306,
+      "longitude": -73.9352,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "New York"
+    },
+    "description": "Loft in East Village",
+    "image": "images/Loft-in-East-Village.jpg",
+    "price": 850000
+  },
+  {
+    "id": 21,
+    "address": {
+      "latitude": 41.8756,
+      "longitude": -87.6244,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Chicago"
+    },
+    "description": "Luxury condo with city view",
+    "image": "images/Luxury-condo-with-city-view.jpg",
+    "price": 940000
+  },
+  {
+    "id": 22,
+    "address": {
+      "latitude": 30.2665,
+      "longitude": -97.7427,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Austin"
+    },
+    "description": "Chic studio apartment",
+    "image": "images/Chic-studio-apartment.jpg",
+    "price": 480000
+  },
+  {
+    "id": 23,
+    "address": {
+      "latitude": 47.6097,
+      "longitude": -122.3331,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Seattle"
+    },
+    "description": "Townhome in Capitol Hill",
+    "image": "images/Townhome-in-Capitol-Hill.jpg",
+    "price": 730000
+  },
+  {
+    "id": 24,
+    "address": {
+      "latitude": 29.7633,
+      "longitude": -95.3633,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Houston"
+    },
+    "description": "Suburban family house",
+    "image": "images/Suburban-family-house.jpg",
+    "price": 560000
+  },
+  {
+    "id": 25,
+    "address": {
+      "latitude": 30.3072,
+      "longitude": -97.7550,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "place": "Austin"
+    },
+    "description": "Penthouse with rooftop terrace",
+    "image": "images/Penthouse-with-rooftop-terrace.jpg",
+    "price": 1250000
+  }
+]
